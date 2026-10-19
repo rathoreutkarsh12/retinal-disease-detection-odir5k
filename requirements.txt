@@ -1,0 +1,12 @@
+torch>=2.3
+torchvision>=0.18
+numpy
+pandas
+scikit-learn>=1.0
+matplotlib
+seaborn
+pillow
+tqdm
+kagglehub
+jupyter
+ipywidgets

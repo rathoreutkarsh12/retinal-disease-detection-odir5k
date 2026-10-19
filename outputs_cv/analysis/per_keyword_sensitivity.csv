@@ -1,0 +1,13 @@
+term,images,mean_prob,sensitivity @ 85% sens
+myelinated nerve fibers,23,0.552,69.6%
+mild nonproliferative retinopathy,99,0.536,70.7%
+glaucoma,60,0.538,81.7%
+hypertensive retinopathy,34,0.602,82.4%
+drusen,26,0.494,88.5%
+cataract,60,0.843,90.0%
+pathological myopia,52,0.833,90.4%
+dry age-related macular degeneration,35,0.722,91.4%
+moderate non proliferative retinopathy,211,0.773,91.9%
+epiretinal membrane,28,0.66,92.9%
+macular epiretinal membrane,40,0.817,95.0%
+severe nonproliferative retinopathy,35,0.908,97.1%
